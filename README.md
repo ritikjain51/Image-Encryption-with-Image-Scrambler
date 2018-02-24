@@ -11,12 +11,19 @@ A simple image encryption program written completely in python. You simply run t
 - Python 3.5 or Greater
 - PIL
 - Tkinter
+- wxPython
 - Hashlib
 
 ### Run Project
 
 ``python setup.py``
 
+### Library Installation
+`pip install wxpython`
+
+`pip install pillow`
+
+`pip install tk`
 ## Demo
 
 ### Initial 
