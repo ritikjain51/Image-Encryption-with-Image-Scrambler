@@ -37,5 +37,15 @@ A simple image encryption program written completely in python. You simply run t
 ![alt tag](https://github.com/ritikjain51/Image-Encryption-with-Image-Scrambler/blob/master/1.decrypted0.png)
 
 
-Author: **Ritik Jain, Shubham Jain**
+## Authors
+- Ritik Jain
+- Shubham Jain
+
+## Contributing
+
+Contributions to this project are welcome and appreciated. If you have any ideas or suggestions, please feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
     
