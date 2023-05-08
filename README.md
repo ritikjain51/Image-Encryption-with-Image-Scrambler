@@ -8,14 +8,13 @@ Python Image Encryptor
 A simple image encryption program written completely in python. You simply run the program 'python setup.py' and enter your desired password to encrypt of decrypt the image. After you choose your password, choose either encrypt or decrypt, and an file browser will show up. From here you can choose either the image to encrypt, or the image to decrypt with your given password.
 
 ### REQUIREMENT
-- Python 3.5 or Greater
+- Python 3.5 or later
 - PIL
 - Tkinter
 - wxPython
 - Hashlib
 
 ### Run Project
-
 ``python setup.py``
 
 ### Library Installation
@@ -24,6 +23,7 @@ A simple image encryption program written completely in python. You simply run t
 `pip install pillow`
 
 `pip install tk`
+
 ## Demo
 
 ### Initial 
